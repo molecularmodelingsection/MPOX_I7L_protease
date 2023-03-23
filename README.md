@@ -1,5 +1,6 @@
 # MPOX_I7L_protease
-Supplementary Material for: "Targeting the I7L Protease: Towards the Rational Design of Anti-Monkeypox Drugs?"  
+**"Targeting the I7L Protease: Towards the Rational Design of Anti-Monkeypox Drugs?"**  
+Dodaro A.,Pavan M., Moro S. (under peer-review at *International Journal of Molecular Sciences*)  
 
 This repository contains the following supplementary materials:  
 - **I7L_PHYRE2.pdb**: a pdb file for the PHYRE2 homology model of MPOX I7L protease (monomer) based on S. cerevisiae Ulp-1 protease (PDB: 1EUV)  
